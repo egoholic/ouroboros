@@ -1,1 +1,1 @@
-# Ouroboros - super simple experimental SQL database as a library
+# Ouroboros - super simple experimental sp called "no-SQL" database as a library
